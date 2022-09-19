@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin/department-list.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin/echarts/month-salary.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin/echarts" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin/employee-list.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin/index.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin/monthlyattendance-list.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin/rank-edit.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin/salary/salaryIssueList.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/admin/salary" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/employee/index.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/employee" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/employee/login.html" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/page/employee" />
+      </map>
+    </option>
+  </component>
+</project>
